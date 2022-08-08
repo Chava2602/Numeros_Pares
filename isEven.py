@@ -2001,3 +2001,23 @@ def isEven(num):
         return False
     elif num == 1000:
         return True
+    elif num == 1001:
+        return False
+    elif num == 1002:
+        return True
+    elif num == 1003:
+        return False
+    elif num == 1004:
+        return True
+    elif num == 1005:
+        return False
+    elif num == 1006:
+        return True
+    elif num == 1007:
+        return False
+    elif num == 1008:
+        return True
+    elif num == 1009:
+        return False
+    elif num == 1010:
+        return True
